@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <title>Trabalho Prático - Módulo 1 - RGB</title>
+  </head>
+  <body>
+    <div class="rangers-color">
+      <div class="range-color-container">
+        <span>(R) Vermelho:</span>
+        <input type="range" min="0" max="255" step="1" id="inputRangeRed" />
+        <input type="text" id="inputValueRed" readonly disabled />
+      </div>
+      <div class="range-color-container">
+        <span>(G) Verde:</span>
+        <input type="range" min="0" max="255" step="1" id="inputRangeGreen" />
+        <input type="text" id="inputValueGreen" readonly disabled />
+      </div>
+      <div class="range-color-container">
+        <span>(B) Azul:</span>
+        <input type="range" min="0" max="255" step="1" id="inputRangeBlue" />
+        <input type="text" id="inputValueBlue" readonly disabled />
+      </div>
+      <div id="divColor"></div>
+    </div>
+
+    <script src="./js/script.js"></script>
+  </body>
+</html>
