@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Compiled and minified CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"
+    />
+    <link rel="stylesheet" type="text/css" href="./css/style.css" />
+    <title>Desafio - Módulo 1</title>
+  </head>
+  <body>
+    <h3 class="title-app">Pesquisa de usuários</h3>
+
+    <form>
+      <label
+        >Busca
+        <input type="text" name="name" id="inputName" />
+      </label>
+      <input
+        type="button"
+        name="buttonSearch"
+        value="BUSCAR"
+        class="waves-effect waves-light btn"
+        id="buttonSearch"
+        disabled
+      />
+    </form>
+
+    <div class="container-app">
+      <div id="filteredUsers">
+        <h4 class="subtitle">Nenhum usuário filtrado</h4>
+      </div>
+      <div id="userStatistics">
+        <h4 class="subtitle">Nada a ser exibido</h4>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="./js/script.js"></script>
+  </body>
+</html>
