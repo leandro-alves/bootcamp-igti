@@ -1,0 +1,12 @@
+{
+  "name": "trabalho-pratico-modulo-2",
+  "version": "1.0.0",
+  "description": "Trabalho prático do módulo 2 - Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}

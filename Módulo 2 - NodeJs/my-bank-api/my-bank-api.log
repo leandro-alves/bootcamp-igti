@@ -1,0 +1,18 @@
+2020-06-07T18:42:25.606Z [my-bank-api] info: API start
+2020-06-07T18:45:45.245Z [my-bank-api] info: API start
+2020-06-07T18:46:03.606Z [my-bank-api] info: POST /account - {"id":10,"name":"Cleivan de Sá Alves Júnior","balance":8970}
+2020-06-07T19:33:16.140Z [my-bank-api] info: API start
+2020-06-07T19:33:36.365Z [my-bank-api] info: GET /account
+2020-06-07T19:33:39.275Z [my-bank-api] info: GET /account/:id
+2020-06-07T19:33:42.811Z [my-bank-api] info: GET /account/:id - {"id":10,"name":"Cleivan de Sá Alves Júnior","balance":8970}
+2020-06-07T19:35:35.645Z [my-bank-api] info: GET /account
+2020-06-07T19:35:46.586Z [my-bank-api] info: GET /account
+2020-06-07T19:35:49.392Z [my-bank-api] info: GET /account/:id - {"id":10,"name":"Cleivan de Sá Alves Júnior","balance":8970}
+2020-06-07T19:36:12.536Z [my-bank-api] info: GET /account
+2020-06-07T19:36:13.618Z [my-bank-api] info: GET /account
+2020-06-07T19:37:09.921Z [my-bank-api] info: API start
+2020-06-07T19:37:19.243Z [my-bank-api] info: GET /account
+2020-06-08T03:26:40.023Z [my-bank-api] info: API start
+2020-06-08T03:31:12.617Z [my-bank-api] info: API start
+2020-06-08T03:32:36.251Z [my-bank-api] info: API start
+2020-06-08T03:33:31.209Z [my-bank-api] info: GET /account
