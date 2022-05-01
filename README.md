@@ -1,2 +1,2 @@
 # bootcamp-igti
-Projects developed during the IGTI fullstack bootcamp
+Projects developed during the IGTI Full Stack Bootcamp
